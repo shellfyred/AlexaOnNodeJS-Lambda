@@ -1,0 +1,11 @@
+var config = {
+    host: "node server host name",
+    port: "node server port",
+    sony : {
+    	ip: "Sony bravia TV ip address",	
+        port : '80',
+        psk: "0000"
+    }
+};
+
+module.exports = config;
