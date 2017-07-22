@@ -49,3 +49,4 @@ config.js
 !config.js.sample
 *.zip
 node_modules/
+docker-compose.yml
