@@ -1,0 +1,7 @@
+var config = {
+    appid: "Amazon Alexa Application Id",
+    host : "external ip to node server",
+    port : "external port to node server"
+};
+
+module.exports = config;
