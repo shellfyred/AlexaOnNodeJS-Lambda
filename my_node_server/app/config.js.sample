@@ -1,10 +1,11 @@
 var config = {
-    host: "node server host name",
-    port: "node server port",
-    sony : {
-    	ip: "Sony bravia TV ip address",	
-        port : '80',
-        psk: "0000"
+    host    : "node server host name",
+    port    : "node server port",
+    apiKey  : "key specified in node server"
+    sony    : {
+    	ip      : "Sony bravia TV ip address",	
+        port    : "port server should listen on",
+        psk     : "pre-shared key set on bravia"
     }
 };
 
